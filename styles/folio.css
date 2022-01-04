@@ -1,0 +1,13 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  background: #4d1473;
+  background: -webkit-gradient(linear, left top, right top, from(#4d1473), color-stop(35%, #6829a6), to(#656abf));
+  background: linear-gradient(90deg, #4d1473 0%, #6829a6 35%, #656abf 100%);
+  min-height: 100vh;
+  width: 100%;
+}
+/*# sourceMappingURL=folio.css.map */
