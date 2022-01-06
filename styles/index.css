@@ -150,6 +150,15 @@ i:hover {
           transition-delay: 0.5s;
 }
 
+.container:hover .social-container a:nth-child(3) {
+  -webkit-transition-delay: 0.7s;
+          transition-delay: 0.7s;
+}
+
+.container:hover .social-container a:nth-child(3) i {
+  font-size: 36px;
+}
+
 .wrapper {
   display: -webkit-box;
   display: -ms-flexbox;

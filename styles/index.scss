@@ -118,6 +118,13 @@ i:hover {
   transition-delay: 0.5s;
 }
 
+.container:hover .social-container a:nth-child(3) {
+  transition-delay: 0.7s;
+  i {
+    font-size: 36px;
+  }
+}
+
 //////////////////////////////Enter button//////////////////////////////
 
 .wrapper {
