@@ -11,7 +11,7 @@ Ce site présente les différents projets que j'ai réalisés. Vous pourrez ains
 [![made-with-SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ## Caractéristiques
-📱Responsive design
+📱Responsive design </br>
 🎉Animations
 
 ## Conformité
